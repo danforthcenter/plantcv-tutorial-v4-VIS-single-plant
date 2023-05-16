@@ -1,0 +1,6 @@
+git clone --branch 4.x --single-branch https://github.com/danforthcenter/plantcv.git
+cd plantcv
+python setup.py install
+cd ..
+rm -fr plantcv
+jupyter labextension install @jupyter-widgets/jupyterlab-manager jupyter-matplotlib --dev-build=False --minimize=False
