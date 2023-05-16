@@ -7,7 +7,8 @@ An introduction to analyzing VIS (RGB) images of single plants (or single object
 Read in image taken with any kind of vis (RGB) camera to analyze shape, color, size, and more properties. 
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-v4-VIS-single-plant/HEAD?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danforthcenter/plantcv-tutorial-v4-VIS-single-plant/HEAD?filepath=index.ipynb)
+
 
 ## Tutorial tags/keywords
 
