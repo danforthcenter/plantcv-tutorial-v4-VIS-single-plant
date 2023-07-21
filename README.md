@@ -14,6 +14,4 @@ Read in image taken with any kind of vis (RGB) camera to analyze shape, color, s
 
 RGB, VIS, tutorial, shape, color, plant, single
 
-## Citations
 
-Optional.
