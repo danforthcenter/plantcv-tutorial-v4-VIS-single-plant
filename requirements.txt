@@ -10,3 +10,4 @@ dask
 dask-jobqueue
 opencv-python<4, >=3.4plantcv==3.12.1
 ipympl
+plantcv
