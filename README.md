@@ -1,5 +1,7 @@
 # PlantCV Single Plant, VIS Image Analysis Tutorial using release-4.0
 
+[![test-pr](https://github.com/danforthcenter/plantcv-tutorial-v4-VIS-single-plant/actions/workflows/ci-tests.yml/badge.svg)](https://github.com/danforthcenter/plantcv-tutorial-v4-VIS-single-plant/actions/workflows/ci-tests.yml)
+
 An introduction to analyzing VIS (RGB) images of single plants (or single objects) with PlantCV.
 
 # Image Analysis Workflow
