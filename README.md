@@ -13,7 +13,6 @@ Read in image taken with any kind of vis (RGB) camera to analyze shape, color, s
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danforthcenter/plantcv-tutorial-v4-VIS-single-plant/blob/main/index_Colab.ipynb)
 
-[![Static Badge](https://img.shields.io/badge/Open%20in%20GitHub-black?logo=github)](https://github.com/danforthcenter/plantcv-tutorial-v4-VIS-single-plant)
 
 
 ## Tutorial tags/keywords
